@@ -8,3 +8,5 @@ To open a listener and get the shell simply run this command in the attackers ma
 nc -nvlp <local Port>
 or 
 nc -l -p <local Port>
+
+Note: I havent tested the ReverseShell_Server.cs file you can test it and try it.
