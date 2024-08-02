@@ -1,0 +1,14 @@
+/Users/aquaregia17/ReverseShell/Reverseshell/bin/Debug/net8.0/Reverseshell
+/Users/aquaregia17/ReverseShell/Reverseshell/bin/Debug/net8.0/Reverseshell.deps.json
+/Users/aquaregia17/ReverseShell/Reverseshell/bin/Debug/net8.0/Reverseshell.runtimeconfig.json
+/Users/aquaregia17/ReverseShell/Reverseshell/bin/Debug/net8.0/Reverseshell.dll
+/Users/aquaregia17/ReverseShell/Reverseshell/bin/Debug/net8.0/Reverseshell.pdb
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/Reverseshell.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/Reverseshell.AssemblyInfoInputs.cache
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/Reverseshell.AssemblyInfo.cs
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/Reverseshell.csproj.CoreCompileInputs.cache
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/Reverseshell.dll
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/refint/Reverseshell.dll
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/Reverseshell.pdb
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/Reverseshell.genruntimeconfig.cache
+/Users/aquaregia17/ReverseShell/Reverseshell/obj/Debug/net8.0/ref/Reverseshell.dll
